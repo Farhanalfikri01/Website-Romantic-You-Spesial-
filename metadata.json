@@ -1,0 +1,6 @@
+{
+  "name": "You Spesial",
+  "description": "Interactive romance web application with real-time face and hand tracking to express feelings elegantly.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
